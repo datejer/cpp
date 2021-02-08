@@ -10,7 +10,6 @@ int main() {
         cin >> n;
 
         if (i == 0) {
-        cout << "reset";
             najw = n;
             najm = n;
         } else {
